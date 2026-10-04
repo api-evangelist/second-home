@@ -47,7 +47,7 @@ tags:
 - Workspace
 - Flexible Office
 - Cultural Venue
-- Real-Estate
+- Real Estate
 - Community
 tags_raw:
 - Company
@@ -58,6 +58,7 @@ tags_raw:
 - Cultural Venue
 - Real Estate
 - Community
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
